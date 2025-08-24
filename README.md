@@ -3,7 +3,7 @@
 
   Kendim Hakkımda Bazı Şeyler
 
-- Ben Java bilen ve kodlamayı tutkuyla seven bir geliştiriciyim Günüm genellikle kod yazarak yeni programlama konseptlerini keşfederek ve kişisel ya da birlikte yürüttüğüm projeler üzerinde çalışarak geçiyor.
+- Ben Java kodlamayı tutkuyla seven bir geliştiriciyim Günüm genellikle kod yazarak yeni programlama konseptlerini keşfederek ve kişisel ya da birlikte yürüttüğüm projeler üzerinde çalışarak geçiyor.
 - Yeni teknolojiler öğrenmeyi fikirlerimi denemeyi ve becerilerimi sürekli geliştirmeyi çok seviyorum.
 - Kod yazmadığım zamanlarda teknoloji topluluklarını takip eder yeni trendleri öğrenir ve projelerde iş birliği yapmaktan keyif alırım
 - İlginç projelerde çalışmak ve diğer geliştiricilerle bağlantı kurmak her zaman ilgimi çeker.
