@@ -11,6 +11,7 @@
 - öğrenmeye her zaman açığım ve fikir alışverişi yapmayı seviyorum
 
  Hayatta herkesle dost gibi geçinmemeyi öğrendim Bazı insanlar sadece yanında görünür ama gerçek niyetlerini asla paylaşmazlar Bu yüzden güvenimi kolay vermem
+ 
  Gerçek dost sırtından kazık atmaz. kimi insanlar yüzlerinde gülücüklerle görünür ama aslında seni düşürdüklerinde arkalarına bakmazlar bu yüzden dostlarını seçmek de güvenini ölçmek de tamamen senin işindir
 
 <p align="left">
