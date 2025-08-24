@@ -3,7 +3,7 @@
 
 - 🔭 Üzerinde Çalıştığım Projeler **JavaScript**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">İletişime geçmek isterseniz, bana ulaşabilirsiniz:</h3>
 <p align="left">
 <a href="https://dev.to/canreolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="canreolo" height="30" width="40" /></a>
 <a href="https://codesandbox.com/canxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="canxd" height="30" width="40" /></a>
