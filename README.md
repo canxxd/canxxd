@@ -1,4 +1,4 @@
-<h1 align="center">hello i'm can</h1>
+<h1 align="center">Merhaba, ben Can.</h1>
 <h3 align="center">Minecraft Sunucuları Tarafında Çalışan Javascript Geliştiricisiyim</h3>
 
 - 🔭 I’m currently working on **JavaScript**
