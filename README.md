@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Can.</h1>
+<h1 align="center">Selamlar ben Can</h1>
 <h3 align="center">Minecraft Sunucuları Tarafında Çalışan Java Geliştiricisiyim</h3>
 
 Kendim Hakkımda Bazı Şeyler
