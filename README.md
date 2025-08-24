@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://dev.to/canreolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="canreolo" height="30" width="40" /></a>
 <a href="https://codesandbox.com/canxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="canxd" height="30" width="40" /></a>
-<a href="https://fb.com/can" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="can" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/craftaxe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="craftaxe" height="30" width="40" /></a>
+<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="can" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/CraftLipe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="craftaxe" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/canboyreolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="canboyreolo" height="30" width="40" /></a>
 <a href="https://discord.gg/discord.gg/lime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/lime" height="30" width="40" /></a>
 </p>
