@@ -1,11 +1,14 @@
 <h1 align="center">Merhaba, ben Can.</h1>
 <h3 align="center">Minecraft Sunucuları Tarafında Çalışan Java Geliştiricisiyim</h3>
 
+Kendim Hakkımda Bazı Şeyler
+
 - Ben Java bilen ve kodlamayı tutkuyla seven bir geliştiriciyim Günüm genellikle kod yazarak yeni programlama konseptlerini keşfederek ve kişisel ya da birlikte yürüttüğüm projeler üzerinde çalışarak geçiyor.
 - Yeni teknolojiler öğrenmeyi fikirlerimi denemeyi ve becerilerimi sürekli geliştirmeyi çok seviyorum.
 - Kod yazmadığım zamanlarda teknoloji topluluklarını takip eder yeni trendleri öğrenir ve projelerde iş birliği yapmaktan keyif alırım
 - İlginç projelerde çalışmak ve diğer geliştiricilerle bağlantı kurmak her zaman ilgimi çeker.
 - 18 yaşındayım Boş zamanlarımda müzik dinlemeyi ve yeni şeyler öğrenmeyi çok seviyorum Kodlama benim tutkum olsa da günlük hayatımda yaratıcı projelerle uğraşmak ve kendimi geliştirmek de ilgi alanlarım arasında.
+- öğrenmeye her zaman açığım ve fikir alışverişi yapmayı seviyorum
 
 <p align="left">
 <a href="https://dev.to/canreolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="canreolo" height="30" width="40" /></a>
