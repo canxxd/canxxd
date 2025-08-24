@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben Can.</h1>
-<h3 align="center">Minecraft Sunucuları Tarafında Çalışan Javascript Geliştiricisiyim</h3>
+<h3 align="center">Minecraft Sunucuları Tarafında Çalışan Java Geliştiricisiyim</h3>
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 Üzerinde Çalıştığım Projeler **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
