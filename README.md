@@ -10,7 +10,8 @@
 - 18 yaşındayım Boş zamanlarımda müzik dinlemeyi ve yeni şeyler öğrenmeyi çok seviyorum Kodlama benim tutkum olsa da günlük hayatımda yaratıcı projelerle uğraşmak ve kendimi geliştirmek de ilgi alanlarım arasında.
 - öğrenmeye her zaman açığım ve fikir alışverişi yapmayı seviyorum
 
- Hayatta herkesle dost gibi geçinmemeyi öğrendim Bazı insanlar sadece yanında görünür ama gerçek niyetlerini asla paylaşmazlar Bu yüzden güvenimi kolay vermem 
+ Hayatta herkesle dost gibi geçinmemeyi öğrendim Bazı insanlar sadece yanında görünür ama gerçek niyetlerini asla paylaşmazlar Bu yüzden güvenimi kolay vermem
+ Gerçek dost sırtından kazık atmaz. kimi insanlar yüzlerinde gülücüklerle görünür ama aslında seni düşürdüklerinde arkalarına bakmazlar bu yüzden dostlarını seçmek de güvenini ölçmek de tamamen senin işindir
 
 <p align="left">
 <a href="https://dev.to/canreolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="canreolo" height="30" width="40" /></a>
