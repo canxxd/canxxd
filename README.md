@@ -1,7 +1,7 @@
 <h1 align="center">Selamlar ben Can</h1>
 <h3 align="center">Minecraft Sunucuları Tarafında Çalışan Java Geliştiricisiyim</h3>
 
-Kendim Hakkımda Bazı Şeyler
+  Kendim Hakkımda Bazı Şeyler
 
 - Ben Java bilen ve kodlamayı tutkuyla seven bir geliştiriciyim Günüm genellikle kod yazarak yeni programlama konseptlerini keşfederek ve kişisel ya da birlikte yürüttüğüm projeler üzerinde çalışarak geçiyor.
 - Yeni teknolojiler öğrenmeyi fikirlerimi denemeyi ve becerilerimi sürekli geliştirmeyi çok seviyorum.
