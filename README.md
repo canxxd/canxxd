@@ -14,15 +14,17 @@
  
  Gerçek dost sırtından kazık atmaz. kimi insanlar yüzlerinde gülücüklerle görünür ama aslında seni düşürdüklerinde arkalarına bakmazlar bu yüzden dostlarını seçmek de güvenini ölçmek de tamamen senin işindir
 
-
-
-# 📊 GitHub Profil İstatistikleri:
-![](https://github-readme-stats.vercel.app/api?username=canxxd&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=canxxd&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=canxxd&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 💻 Tech Stack:
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=canxxd&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=canxxd&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=canxxd&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=canxxd&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
