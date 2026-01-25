@@ -1,5 +1,5 @@
 <h1 align="center">Selamlar ben Can</h1>
-<h3 align="center">Minecraft LimeNetwork Tarafında Çalışan Java Geliştiricisiyim</h3>
+<h3 align="center">Minecraft Tarafında Çalışan Java Geliştiricisiyim</h3>
 
   Kendim Hakkımda Bazı Şeyler
 
