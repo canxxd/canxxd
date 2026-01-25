@@ -3,12 +3,12 @@
 
   Kendim Hakkımda Bazı Şeyler
 
-- Ben Java kodlamayı tutkuyla seven bir geliştiriciyim Günüm genellikle kod yazarak yeni programlama konseptlerini keşfederek ve kişisel ya da birlikte yürüttüğüm projeler üzerinde çalışarak geçiyor.
+- Java programlamaya tutkuyla bağlı bir geliştiriciyim. Günümün büyük bir kısmı kod yazarak, yeni programlama kavramlarını keşfederek ve bireysel ya da ekip hâlinde yürüttüğüm projeler üzerinde çalışarak geçiyor.
 - Yeni teknolojiler öğrenmeyi fikirlerimi denemeyi ve becerilerimi sürekli geliştirmeyi çok seviyorum.
 - Kod yazmadığım zamanlarda teknoloji topluluklarını takip eder yeni trendleri öğrenir ve projelerde iş birliği yapmaktan keyif alırım
 - İlginç projelerde çalışmak ve diğer geliştiricilerle bağlantı kurmak her zaman ilgimi çeker.
-- 18 yaşındayım Boş zamanlarımda müzik dinlemeyi ve yeni şeyler öğrenmeyi çok seviyorum Kodlama benim tutkum olsa da günlük hayatımda yaratıcı projelerle uğraşmak ve kendimi geliştirmek de ilgi alanlarım arasında.
-- öğrenmeye her zaman açığım ve fikir alışverişi yapmayı seviyorum
+- 18 yaşındayım. Boş zamanlarımda müzik dinlemeyi ve yeni şeyler öğrenmeyi seviyorum. Kodlama en büyük tutkum olsa da yaratıcı projelerle uğraşmak ve kişisel gelişimime katkı sağlamak günlük hayatımın önemli bir parçası.
+- Öğrenmeye her zaman açığım ve fikir alışverişi yapmaktan keyif alırım.
 
  Hayatta herkesle dost gibi geçinmemeyi öğrendim Bazı insanlar sadece yanında görünür ama gerçek niyetlerini asla paylaşmazlar Bu yüzden güvenimi kolay vermem
 
