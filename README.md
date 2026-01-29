@@ -5,12 +5,9 @@
 
 - Günümün yeni programlama kavramlarını keşfederek ve bireysel ya da ekip hâlinde yürüttüğüm projeler üzerinde çalışarak geçiyor.
 - Yeni teknolojiler öğrenmeyi fikirlerimi denemeyi ve becerilerimi sürekli geliştirmeyi çok seviyorum.
-- Kod yazmadığım zamanlarda teknoloji topluluklarını takip eder yeni trendleri öğrenir ve projelerde iş birliği yapmaktan keyif alırım
 - İlginç projelerde çalışmak ve diğer geliştiricilerle bağlantı kurmak her zaman ilgimi çeker.
-- 18 yaşındayım. Boş zamanlarımda müzik dinlemeyi ve yeni şeyler öğrenmeyi seviyorum. Kodlama en büyük tutkum olsa da yaratıcı projelerle uğraşmak ve kişisel gelişimime katkı sağlamak günlük hayatımın önemli bir parçası.
+- 18 yaşındayım. Boş zamanlarımda müzik dinlemeyi ve yeni şeyler öğrenmeyi seviyorum
 - Öğrenmeye her zaman açığım ve fikir alışverişi yapmaktan keyif alırım.
-
- Hayatta herkesle dost gibi geçinmemeyi öğrendim Bazı insanlar sadece yanında görünür ama gerçek niyetlerini asla paylaşmazlar Bu yüzden güvenimi kolay vermem
 
 # 📊 GitHub Profil İstatistikleri:
 ![](https://github-readme-stats.vercel.app/api?username=canxxd&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
