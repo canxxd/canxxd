@@ -1,9 +1,9 @@
 <h1 align="center">Selamlar ben Can</h1>
-<h3 align="center">Minecraft Tarafında Çalışan Java Geliştiricisiyim</h3>
+<h3 align="center">Minecraft Türkiye Tarafında Çalışan Geliştiricisiyim</h3>
 
   Kendim Hakkımda Bazı Şeyler
 
-- Java programlamaya tutkuyla bağlı bir geliştiriciyim. Günümün büyük bir kısmı kod yazarak, yeni programlama kavramlarını keşfederek ve bireysel ya da ekip hâlinde yürüttüğüm projeler üzerinde çalışarak geçiyor.
+- Günümün yeni programlama kavramlarını keşfederek ve bireysel ya da ekip hâlinde yürüttüğüm projeler üzerinde çalışarak geçiyor.
 - Yeni teknolojiler öğrenmeyi fikirlerimi denemeyi ve becerilerimi sürekli geliştirmeyi çok seviyorum.
 - Kod yazmadığım zamanlarda teknoloji topluluklarını takip eder yeni trendleri öğrenir ve projelerde iş birliği yapmaktan keyif alırım
 - İlginç projelerde çalışmak ve diğer geliştiricilerle bağlantı kurmak her zaman ilgimi çeker.
