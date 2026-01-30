@@ -1,5 +1,4 @@
 <h1 align="center">Selamlar ben Can</h1>
-<h3 align="center">Minecraft Türkiye Tarafında Çalışan Geliştiricisiyim</h3>
 
   Kendim Hakkımda Bazı Şeyler
 
