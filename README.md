@@ -8,7 +8,7 @@
 - 18 yaşındayım. Boş zamanlarımda müzik dinlemeyi ve yeni şeyler öğrenmeyi seviyorum
 - Öğrenmeye her zaman açığım ve fikir alışverişi yapmaktan keyif alırım.
 
-Projelerde Yabancılara Destek. İngilizceye Destek Yoktur.
+Projelerde Yabancılara Ve İngilizce Diline Destek Yoktur.
 
 Support for foreigners in projects. No support for English language skills.
 
