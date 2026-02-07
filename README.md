@@ -8,6 +8,8 @@
 - 18 yaşındayım. Boş zamanlarımda müzik dinlemeyi ve yeni şeyler öğrenmeyi seviyorum
 - Öğrenmeye her zaman açığım ve fikir alışverişi yapmaktan keyif alırım.
 
+- Projelerde Yabancılara Destek. İngilizceye Destek Yoktur.
+
 # 📊 GitHub Profil İstatistikleri:
 ![](https://github-readme-stats.vercel.app/api?username=canxxd&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=canxxd&theme=dark&hide_border=true)<br/>
