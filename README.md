@@ -9,6 +9,7 @@
 - Öğrenmeye her zaman açığım ve fikir alışverişi yapmaktan keyif alırım.
 
 Projelerde Yabancılara Destek. İngilizceye Destek Yoktur.
+
 Support for foreigners in projects. No support for English language skills.
 
 # 📊 GitHub Profil İstatistikleri:
