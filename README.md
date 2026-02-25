@@ -2,7 +2,7 @@
 
   Kendim Hakkımda Bazı Şeyler
 
-Selam ben Can 18 yaşındayım Bir zamanlar hayallerimi büyüttüğüm Minecraft sunucu defterini dost bildiklerimin bir hamlesiyle kapattım artık yokum.
+Selam ben Can 18 yaşındayım Bir zamanlar hayallerimi büyüttüğüm Minecraft sunucu defterini kapattım artık sadece hobi olarak ve çok nadir uğraşıyorum
 
 # 📊 Profil İstatistikleri:
 ![](https://github-readme-stats.vercel.app/api?username=canxxd&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
